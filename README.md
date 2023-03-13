@@ -1,16 +1,11 @@
 # my_card
 
-A new Flutter project.
+A flutter project that teach me how to:
+- Setting up the environment;
+- Import assets to flutter;
+- How to create a simple form layout and use the most used components;
+- Use Rows and Columns, center elements, use List of itens;
 
-## Getting Started
+## The final layout:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/88892759/224717734-23544be5-8d5b-46d8-b989-1139276d9de6.jpeg" width="200">
